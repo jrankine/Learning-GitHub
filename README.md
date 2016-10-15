@@ -1,3 +1,5 @@
 # Learning-GitHub
-Learning to use GitHub.
-[I'm learning this on lynda.com!](http://lynda.com)
+
+I'm learning this on lynda.com!](http://lynda.com)
+
+## This really needs another header
